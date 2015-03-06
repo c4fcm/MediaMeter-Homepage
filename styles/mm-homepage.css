@@ -1,5 +1,8 @@
+/** palette: http://www.colourlovers.com/palette/3650589/really_really **/
+
 body {
     padding-top: 30px;
+    background: rgb(250,246,207);
 }
 
 li {
@@ -9,4 +12,13 @@ li {
 p {
     font-size: 20px;
     margin-bottom: 30px;
+}
+
+h2 {
+	color: rgb(112,89,128);
+}
+
+a:hover, a:focus, a:visited, a {
+	color: rgb(247,109,82);
+	font-weight: bold;
 }
